@@ -34,7 +34,8 @@ num = int(input("Digite um número: "))
 if eh_primo(num):
     print(f"{num} é primo.")
 else:
-    print(f"{num} não é primo.")                                                                                    # Desenvolva um programa que leia uma lista de números e mostre a média deles.
+    print(f"{num} não é primo.")                                                                                    
+# Desenvolva um programa que leia uma lista de números e mostre a média deles.
 
 numeros = []
 
